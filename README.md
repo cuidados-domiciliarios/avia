@@ -276,12 +276,17 @@ El modelo incluye un pipeline completo que:
 
 ## 🤝 Colaboradores y Sponsors
 
+### Reconocimientos
+
+¡AVIA fue galardonado con el Premio Japan International Cooperation Agency (JICA) en BAILA Shibuya 2025! [Más información](https://www.linkedin.com/company/japan-international-cooperation-agency-jica-/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BDsXucutNT6yxuj2HmaU0SQ%3D%3D)
+
 ### Instituciones Colaboradoras
 
 Este proyecto es posible gracias al apoyo y colaboración de las siguientes instituciones:
 
 <!-- Aquí se pueden agregar logos e información de las instituciones que apoyan el proyecto -->
 
+- **[Universidad de La Coruña (UDC)](https://www.udc.es/)** - El proyecto comenzó y continúa con el apoyo de la Universidad de La Coruña, específicamente con el **LABIC** (Laboratorios de Innovación Ciudadana), un programa impulsado por la Secretaría General Iberoamericana (SEGIB) que promueve soluciones innovadoras para desafíos ciudadanos en América Latina, España y Portugal
 - **[Cuidados de Salud](https://avia.cuidadosdesalud.org.ar/)** - Plataforma de evaluación de salud
 - **[ELSA Study](https://www.elsa-project.ac.uk/)** - English Longitudinal Study of Ageing
 
